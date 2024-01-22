@@ -25,8 +25,11 @@ To set up your development environment, follow these steps:
    It's recommended to create a virtual environment to manage dependencies:
 
    python -m venv myenv
+   
    activate myenv: myenv/Scripts/activate
+   
    python -m pip install pip --upgrade
+   
    pip install ipykernel pandas matplotlib scikit-learn xgboost joblib OR pip install -r requirements.txt
 
 **Run Model**
