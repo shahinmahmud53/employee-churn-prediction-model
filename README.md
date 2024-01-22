@@ -18,8 +18,8 @@ To set up your development environment, follow these steps:
 
    Begin by cloning the repository to your local machine using the following command:
 
-   git clone https://github.com/shahinmahmud53/employee-churn-prediction-model.git)https://github.com/shahinmahmud53/employee-churn-prediction-model.git
-
+   git clone https://github.com/shahinmahmud53/employee-churn-prediction-model.git
+   
 **Virtual Environment"
 
    It's recommended to create a virtual environment to manage dependencies:
@@ -28,4 +28,8 @@ To set up your development environment, follow these steps:
    activate myenv: myenv/Scripts/activate
    python -m pip install pip --upgrade
    pip install ipykernel pandas matplotlib scikit-learn xgboost joblib OR pip install -r requirements.txt
+
+**Run Model""
+
+   Run all the cells of model.ipynb file
 
