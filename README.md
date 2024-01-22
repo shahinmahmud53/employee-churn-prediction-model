@@ -20,7 +20,7 @@ To set up your development environment, follow these steps:
 
    git clone https://github.com/shahinmahmud53/employee-churn-prediction-model.git
    
-**Virtual Environment"
+**Virtual Environment**
 
    It's recommended to create a virtual environment to manage dependencies:
 
@@ -29,7 +29,7 @@ To set up your development environment, follow these steps:
    python -m pip install pip --upgrade
    pip install ipykernel pandas matplotlib scikit-learn xgboost joblib OR pip install -r requirements.txt
 
-**Run Model""
+**Run Model**
 
    Run all the cells of model.ipynb file
 
